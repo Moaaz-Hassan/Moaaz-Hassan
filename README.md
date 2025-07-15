@@ -11,45 +11,45 @@
 ## 🚀 Tech Stack & Skills
 
 ### 👨‍💻 Programming Languages
-<img title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-<img title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
-<img title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-<img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 
+<p align="left">
+  <img title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+  <img title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
+  <img title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+  <img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+</p>
+
+
+markdown
+نسخ
+تحرير
 ### 🧱 Frameworks & Technologies
 
-**Front-End (Currently Learning):**
-- React.js (Fundamentals, Hooks, Routing)  
-- Bootstrap 5  
-- Figma (UI Design), SPA Basics  
+<p align="left">
+  <!-- Front-End -->
+  <img title="React.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+  <img title="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+  <img title="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
+  
+  <!-- Back-End -->
+  <img title="ASP.NET" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
+  <img title="SQL Server" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+  <img title="Entity Framework" width="40px" src="https://learn.microsoft.com/en-us/ef/core/media/ef-logo.png" />
 
-**Back-End (Currently Learning):**
-- ASP.NET MVC  
-- SQL Server  
-- Entity Framework Basics  
-- REST APIs Fundamentals  
+  <!-- APIs -->
+  <img title="REST API" width="40px" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-api-digital-marketing-flat-icons-inmotus-design.png"/>
 
-### ⚙️ Tools & Dev Practices
-- Git & GitHub  
-- Visual Studio, Postman  
-- Agile Basics  
-
----
-
-## 🧠 Technical Domains
-
-### 💻 Full Stack Web Development
-- Building dynamic applications with React and ASP.NET  
-- API Integration & Authentication  
-
-### 📊 Data Science & Machine Learning
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **ML Models:** Regression, Classification, Clustering (scikit-learn)  
-- **Data Tasks:** Data Cleaning, Feature Engineering, EDA, Visualization  
-- **Web Scraping:** requests, BeautifulSoup, Selenium  
+  <!-- Data Science -->
+  <img title="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
+  <img title="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
+  <img title="Matplotlib" width="40px" src="https://matplotlib.org/_static/images/logo2.svg" />
+  <img title="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+  <img title="scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img title="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
+</p>
 
 ### 🧩 Problem Solving
 - Practicing Competitive Programming  
@@ -65,11 +65,6 @@
 - 📞 **Customer Churn Prediction**  
 - 👥 **Customer Segmentation**
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=moaazhsssan&show_icons=true&theme=radical&include_all_commits=true" />
 
 ---
 
