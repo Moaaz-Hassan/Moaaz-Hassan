@@ -1,10 +1,18 @@
-<h1>Hi There, I'm Moaaz Ebrahim Hassan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Moaaz Hassan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-🎓 I'm a Computer Science student, currently enrolled in a **Full Stack Web Development Diploma** with Route Academy.  
-💻 I'm currently learning **Front-End development using React** and **Back-End development using ASP.NET**.  
-🧠 I'm also taking the **University Competitive Programming** course with Coach Academy to strengthen my **problem-solving** and algorithmic thinking skills.  
-📊 I’ve successfully completed the **Certified Data Scientist Professional (CDSP)** program at Epsilon AI Institute, with hands-on training in Python, Data Analysis, and Machine Learning.  
+<span style="font-size:16px">
+
+🎓 I'm a Computer Science student passionate about software development.  
+<br>
+💻 Currently pursuing a <strong>Full Stack Web Development Diploma</strong> at Route Academy, focusing on building modern web applications using <strong>React</strong> for the front-end and <strong>ASP.NET</strong> for the back-end.  
+<br>
+🧠 Developing strong <strong>problem-solving</strong> and algorithmic thinking skills through the <strong>University Competitive Programming</strong> course at Coach Academy.  
+<br>
+📊 Successfully completed the <strong>Certified Data Scientist Professional (CDSP)</strong> program at Epsilon AI Institute, with hands-on training in <strong>Python</strong>, <strong>Data Analysis</strong>, and <strong>Machine Learning</strong>.  
+<br>
 📅 Completed: May 15, 2025  
+
+</span>
 
 ---
 
@@ -12,6 +20,7 @@
 
 ### 👨‍💻 Programming Languages
 
+#### 🌐 Web Development Languages
 <p align="left">
   <img title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
   <img title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
@@ -19,37 +28,81 @@
   <img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
   <img title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
   <img title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+</p>
+
+#### 🤖 Data Science & Machine Learning Languages
+<p align="left">
   <img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 </p>
 
+---
 
-markdown
-نسخ
-تحرير
 ### 🧱 Frameworks & Technologies
 
-<p align="left">
-  <!-- Front-End -->
-  <img title="React.js" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img title="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
-  <img title="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />
-  
-  <!-- Back-End -->
-  <img title="ASP.NET" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
-  <img title="SQL Server" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-  <img title="Entity Framework" width="40px" src="https://learn.microsoft.com/en-us/ef/core/media/ef-logo.png" />
+#### 🖥️ Front-End Development
 
-  <!-- APIs -->
-  <img title="REST API" width="40px" src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-api-digital-marketing-flat-icons-inmotus-design.png"/>
+- **HTML, HTML5, CSS3, CSS Flex & Grid, SASS**
+- **JavaScript (ESNext, Async Programming, Functional JS, Regex, Modules)**
+- **TypeScript & React**
+  - SPA Architecture, JSX, State & Props, Component Lifecycle
+  - React Hooks, Custom Hooks, Context API, Virtual DOM
+  - Routing, JWT Authentication, Axios, Formik & Yup
+  - React Query, Helmet, Hot-toaster, Detect Offline
+- **UI & Styling**
+  - Bootstrap 5, Material UI (Intro), JQuery, JQuery Plugins
+  - Figma (UI Design & Prototyping), JSON
+- **Performance & Optimization**
+  - SEO Basics, Performance Optimization
+- **Project Deployment**
+  - Hosting, Domains, Online Payment Integration, Next.js
 
-  <!-- Data Science -->
-  <img title="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" />
-  <img title="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" />
-  <img title="Matplotlib" width="40px" src="https://matplotlib.org/_static/images/logo2.svg" />
-  <img title="Seaborn" width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-  <img title="scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img title="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png"/>
-</p>
+---
+
+#### 🛠️ Back-End Development
+
+- **Database Design (Microsoft SQL Server)**
+  - ERD, Schema Design, Data Types, Views, Indexes, Subqueries
+  - DDL, DML, DQL, Backup & Restore
+  - Stored Procedures, Triggers, Scalar & Table-Valued Functions
+  - Transactions (TCL), Permissions (DCL)
+
+- **C# & .NET Core**
+  - Variables, Data Types, Value vs Reference, String Builder
+  - Conditionals & Loops, Arrays, Nullable Types
+  - Functions (By Value, By Ref, Out, Params), Enum, Deep vs Shallow Copy
+  - Object-Oriented Programming (OOP)
+    - Encapsulation, Inheritance, Polymorphism, Interfaces, Abstract Classes
+  - Advanced C#
+    - Generics, Delegates, Lambda Expressions, Events, LINQ, Extension Methods
+
+- **Entity Framework Core**
+  - Code First, DB First, Migrations, Relationships (1:1, 1:N, M:N)
+  - Lazy vs Eager Loading, Inheritance Mapping, Seeding, Dapper, AutoMapper
+
+- **ASP.NET MVC & Web APIs**
+  - Controllers, Views, Routing, Layout, ViewData/ViewBag/TempData
+  - Client Validation, Partial Views, Repository Pattern, Unit of Work
+  - Authentication & Authorization with Identity
+  - RESTful APIs, Swagger, Postman
+  - Onion Architecture, Redis Caching, Error Handling, Filtering & Pagination
+  - Payment Integration, Security, IIS Deployment
+
+---
+
+#### 📊 Data Science & Machine Learning
+
+- **Python for Data Analysis**
+  - Pandas, NumPy, Matplotlib, Seaborn
+  - Data Cleaning, Feature Engineering, EDA, Visualization
+
+- **Machine Learning with scikit-learn**
+  - Regression, Classification, Clustering
+
+- **Automation & Web Scraping**
+  - BeautifulSoup, Requests
+
+- **Deployment & Productivity**
+  - Jupyter Notebooks, Model Evaluation, Project Structuring
 
 ### 🧩 Problem Solving
 - Practicing Competitive Programming  
@@ -68,7 +121,7 @@ markdown
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
 <a href="https://www.linkedin.com/in/moaaz-hassan-470b24344/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 <a href="https://www.kaggle.com/moaazhassan"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
