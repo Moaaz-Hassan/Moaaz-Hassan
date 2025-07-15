@@ -121,12 +121,27 @@
 
 ---
 
-## Connect
+### 🗣️ Languages I Speak
 
-<a href="https://www.linkedin.com/in/moaaz-hassan-470b24344/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
-<a href="https://www.kaggle.com/moaazhassan"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Arabic-Native-green" alt="Arabic Native" />
+  <img src="https://img.shields.io/badge/English-Fluent-blue" alt="English Fluent" />
+</p>
 
 ---
+
+
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moaaz-hassan-470b24344/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/moaazhassan">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" />
+  </a>
+</p>
 
 
 
