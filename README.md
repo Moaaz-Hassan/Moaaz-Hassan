@@ -11,12 +11,9 @@
 ## 🎓 Certifications
 
 #### 📜 Certified Data Scientist Professional  
-- **Issued by:** Epsilon AI Academy  
-- **ID:** EAIA-101502-EG  
+- **Issued by:** Epsilon AI Academy   
 - **Year:** 2025  
-- **Verification Link:** [Click to Verify](https://epsilonaii.org/verify)
-
-</span>
+- **Verification Link:** [View Certificate (PDF)](https://epsilonaii.org/wp-content/uploads/2025/07/101502-25-EG-Moaaz-Ebrahim-Mohamed-Hassan.pdf)
 
 ---
 
