@@ -8,9 +8,13 @@
 <br>
 🧠 Developing strong <strong>problem-solving</strong> and algorithmic thinking skills through the <strong>University Competitive Programming</strong> course at Coach Academy.  
 <br>
-📊 Successfully completed the <strong>Certified Data Scientist Professional (CDSP)</strong> program at Epsilon AI Institute, with hands-on training in <strong>Python</strong>, <strong>Data Analysis</strong>, and <strong>Machine Learning</strong>.  
-<br>
-📅 Completed: May 15, 2025  
+## 🎓 Certifications
+
+#### 📜 Certified Data Scientist Professional  
+- **Issued by:** Epsilon AI Academy  
+- **ID:** EAIA-101502-EG  
+- **Year:** 2025  
+- **Verification Link:** [Click to Verify](https://epsilonaii.org/verify)
 
 </span>
 
